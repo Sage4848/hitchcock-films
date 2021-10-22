@@ -22,8 +22,8 @@ nav img.active { filter: brightness(0%) }
 }
 
 .two-colum{ display: flex;
+  flex-wrap: wrap;
 }
-.two-colum { 
+.two-colum  div { 
   flex: 50%;
-  padding: 16px
    }
