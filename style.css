@@ -25,7 +25,6 @@ nav img.active { filter: brightness(0%) }
 .image-ppl  { 
 padding-right: 10%;
 margin-top: -250px;
-margin-left: 10px;
 }
 
 .two-colum{ display: flex;
