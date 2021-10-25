@@ -8,11 +8,28 @@ body {
   margin: 0%;
  }
 
-nav {
+.rope-nav {
   display: flex;
   justify-content: flex-end;
-  background-color: chocolate;
+  background-color: rgb(196,94,43); 
 }
+
+.rear-nav {
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(68,130,137); 
+}
+
+.noth-nav { 
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(87,92,52); }
+
+  .bird-nav{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(162,128,50);
+  }
 
 nav img.active { filter: brightness(0%) }
 
@@ -33,3 +50,11 @@ margin-top: -250px;
 .two-colum  div { 
   flex: 50%;
    }
+
+   rgb (68,130,137) Rear window color hex 
+   rgb (162,128,50) The birds color hex 
+   rgb (196,94,43)  Rope color hex 
+   rgb (87,92,52)   north by northwest color hex 
+
+
+
