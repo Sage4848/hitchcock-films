@@ -33,18 +33,30 @@ body {
   background-color: rgb(68,130,137); 
 }
 
+.line-rear {
+  background-color: rgb(68,130,137);
+}
+
 .noth-nav { 
   display: flex;
   justify-content: flex-end;
   background-color: rgb(87,92,52); 
 }
 
-  .bird-nav{
+.line-north{
+  background-color: rgb(87,92,52);
+}
+
+.bird-nav{
     display: flex;
     justify-content: flex-end;
     background-color: rgb(162,128,50);
-  }
+ }
 
+ .line-bird{
+   background-color: rgb(162,128,50);
+ }
+ 
 nav img.active { filter: brightness(0%) }
 
 .rope-sub {
