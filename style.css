@@ -23,7 +23,8 @@ body {
 .noth-nav { 
   display: flex;
   justify-content: flex-end;
-  background-color: rgb(87,92,52); }
+  background-color: rgb(87,92,52); 
+}
 
   .bird-nav{
     display: flex;
